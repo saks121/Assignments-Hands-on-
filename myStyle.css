@@ -1,0 +1,16 @@
+h1{color:crimson;}
+h2,h3{
+    color: orangered;
+}
+.OList{
+    color: brown;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+.UList{
+    font-family: monospace ;
+    color: chocolate;
+}    
+p{
+    color:saddlebrown;
+}
